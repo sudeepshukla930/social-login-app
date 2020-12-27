@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.Image{
+  width:200px;
+  height: 200px;
+}
+
+#Button{
+  
+  border: 5px solid #00d7c3;
+  border-radius: 50px;
+  font-size: 2em;
+  -webkit-transition: all .15s ease-in-out;
+  transition: all .15s ease-in-out;
+  color: #00d7c3;
+}
+
